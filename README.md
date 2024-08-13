@@ -11,3 +11,6 @@ Todo o notebook está com descrições detalhadas para cada etapa do processo.
 
 ---
 ##### ¹ Artigo original: [pysentimiento: A Python Toolkit for Opinion Mining and Social NLP tasks](https://arxiv.org/abs/2106.09462)
+
+
+> _Esse repositório foi resultado de uma pesquisa tecnológica realizada no âmbito do Laboratório Multiusuário de Informática e Documentação Linguística (LAMID) com bolsa de Iniciação Tecnológica concedida pelo CNPq._
