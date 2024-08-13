@@ -1,5 +1,5 @@
 # Emojis para Análise de Sentimentos e Emoções
-> Códigos utilizados na constituição do dataset "Face Emojis for Sentiment Analysis" disponibilizado no kaggle.
+> Códigos utilizados na constituição do dataset ["**Face Emojis for Sentiment Analysis**"](https://www.kaggle.com/datasets/tuliosg/face-emojis-for-sentiment-analysis) disponibilizado no kaggle.
 
 No notebook `Emojis para Análise de Sentimentos` estão todas as funções e códigos necessários para constituir qualquer conjunto de dados de emojis tendo como base o [ranking dos emojis mais usados em 2021 disponibilizado pela Unicode](https://www.google.com/url?q=https%3A%2F%2Fhome.unicode.org%2Femoji%2Femoji-frequency%2F).
 
